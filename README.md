@@ -96,10 +96,4 @@ MISSÃO: Evoluir continuamente e criar aplicações de alto impacto 🚀
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Henry Rafael" />
 </a>
 
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=raf-henry&style=for-the-badge&color=1D4ED8&label=VISITAS+AO+PERFIL" alt="Contador de visitas do perfil" />
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,45:1D4ED8,100:38BDF8" alt="Rodapé decorativo em tons de azul" />
