@@ -81,30 +81,6 @@ MISSÃO: Evoluir continuamente e criar aplicações de alto impacto 🚀
 
 ---
 
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raf-henry&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&title_color=38BDF8&icon_color=60A5FA" alt="Estatísticas do GitHub de Henry Rafael" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raf-henry&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&title_color=38BDF8" alt="Linguagens mais usadas por Henry Rafael" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=raf-henry&theme=tokyonight&hide_border=true&locale=pt_BR&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8" alt="Sequência de contribuições de Henry Rafael" />
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raf-henry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Troféus do GitHub de Henry Rafael" />
-
-</div>
-
----
 
 ## 🌐 Vamos conversar?
 
