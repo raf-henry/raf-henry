@@ -17,8 +17,6 @@
 
 Carregando perfil... ████████████████████ 100%
 
-✓ Curiosidade ativada
-✓ Café sincronizado
 ✓ Projetos carregados
 ✓ Modo criativo habilitado
 
